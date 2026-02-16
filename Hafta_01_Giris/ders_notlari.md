@@ -72,7 +72,7 @@ Kısaca mikroişlemci; Güçlü beyin (ama organları dışarıda), mikrodenetle
 
 ### 2.3 Arduino Uno Donanım Mimarisi
 
-["Arduino"](https://cdn-blog.adafruit.com/uploads/2012/05/ArduinoUno_R3_Pinouts_600.png)
+![Arduino](https://cdn-blog.adafruit.com/uploads/2012/05/ArduinoUno_R3_Pinouts_600.png)
 
 
 ### 2.4 ATmega328P Teknik Özellikleri
