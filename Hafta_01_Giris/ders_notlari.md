@@ -50,6 +50,10 @@
 ## 2. Mikroişlemci ve Mikrodenetleyici Teknolojisi (40 dakika)
 
 ### 2.1 Mikroişlemci vs Mikrodenetleyici
+**Mikroişlemci**, yalnızca CPU (Merkezi İşlem Birimi) içeren bir entegre devredir. Bellek (RAM/ROM), giriş-çıkış birimleri ve diğer çevre bileşenleri harici olarak bağlanır.
+**Mikrodenetleyici**; CPU + RAM + ROM + giriş/çıkış portları + zamanlayıcılar gibi birimleri tek çip üzerinde barındıran entegre devredir.
+
+Kısaca mikroişlemci; Güçlü beyin (ama organları dışarıda), mikrodenetleyici ise Küçük ama kendi içinde tam sistemdir.
 
 | Özellik | Mikroişlemci | Mikrodenetleyici |
 |---------|--------------|------------------|
@@ -68,23 +72,8 @@
 
 ### 2.3 Arduino Uno Donanım Mimarisi
 
-```
-                    Arduino Uno R3
-    ┌─────────────────────────────────────────┐
-    │  USB     ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○   │
-    │  Port    D0 D1 D2 D3 D4 D5 D6 D7 D8...  │
-    │          RX TX         ~     ~    ~      │
-    │                                          │
-    │  ┌────────────┐                         │
-    │  │ ATmega328P │  16 MHz                 │
-    │  │            │  Crystal                │
-    │  └────────────┘                         │
-    │                                          │
-    │  RESET    ○ ○ ○ ○ ○ ○                   │
-    │           A0 A1 A2 A3 A4 A5             │
-    │  Power:   5V 3.3V GND GND VIN           │
-    └─────────────────────────────────────────┘
-```
+["Arduino"](https://cdn-blog.adafruit.com/uploads/2012/05/ArduinoUno_R3_Pinouts_600.png)
+
 
 ### 2.4 ATmega328P Teknik Özellikleri
 - **Flash Bellek:** 32 KB (program depolama)
