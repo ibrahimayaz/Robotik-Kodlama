@@ -1,4 +1,4 @@
-# HAFTA 1: Robotik Kodlama ve Arduino'ya Giriş (Teorik)
+<img width="3840" height="1205" alt="image" src="https://github.com/user-attachments/assets/5870747d-ad7a-4be7-931d-8af6b0f30f9d" /># HAFTA 1: Robotik Kodlama ve Arduino'ya Giriş (Teorik)
 
 ## Ders Bilgileri
 - **Süre:** 2 saat 30 dakika
@@ -175,31 +175,27 @@ Kısaca mikroişlemci; Güçlü beyin (ama organları dışarıda), mikrodenetle
 
 ### 3.5 Breadboard Yapısı
 
-```
-    ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─  (+) Güç rayı
-    ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─  (-) GND rayı
-    
-    a b c d e     f g h i j
-    ○ ○ ○ ○ ○     ○ ○ ○ ○ ○  1
-    ○ ○ ○ ○ ○     ○ ○ ○ ○ ○  2
-    ○ ○ ○ ○ ○     ○ ○ ○ ○ ○  3
-    ...          ...
-    
-    Aynı satırdaki a-e ve f-j delikleri birbirine bağlıdır
-```
+![Bradboard](https://res.cloudinary.com/blues-wireless/image/fetch/f_auto,c_limit,w_3840,q_auto/https://dev.blues.io/_next/static/media/breadboard-illustrated.adb3be7b.jpg)
 
 ### 3.6 Elektronik Bileşenler
 
 **Pasif Elemanlar:**
 - **Direnç:** Akımı sınırlar
+![direnc](https://aydinlatma.org/wp-content/uploads/2019/09/Direnc-1024x576.jpg)
 - **Kondansatör:** Enerji depolar, filtreleme
+![kondansator](https://etkilesimliogrenme.com/uploads/images/image_750x_5e03fb9584208.jpg)
 - **Bobin:** Manyetik alan oluşturur
+![bobin](https://www.feriot.com/wp-content/uploads/2024/08/ferit-bobin.png)
 
 **Aktif Elemanlar:**
 - **LED:** Işık yayan diyot
+![led](https://robotikkodlama.net/wp-content/uploads/2019/07/breadboard-led2.jpg)
 - **Transistör:** Elektronik anahtar/amplifikatör
+![transistor](https://www.direnc.net/bd241-transistor-bjt-npn-to-220-bd-bdx-transistorler-stm-nxp-54462-68-B.jpg)
 - **Diyot:** Tek yönlü akım geçişi
+![diyot](https://www.elektrikrehberiniz.com/wp-content/uploads/2017/02/sotki.jpg)
 - **IC:** Entegre devre
+![IC](https://www.build-electronic-circuits.com/wp-content/uploads/2014/10/Three_IC_circuit_chips-Public-Domain.jpg)
 
 ### 3.7 Dijital ve Analog Sinyaller
 
