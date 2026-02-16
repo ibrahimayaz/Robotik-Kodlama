@@ -1,4 +1,4 @@
-<img width="3840" height="1205" alt="image" src="https://github.com/user-attachments/assets/5870747d-ad7a-4be7-931d-8af6b0f30f9d" /># HAFTA 1: Robotik Kodlama ve Arduino'ya Giriş (Teorik)
+# HAFTA 1: Robotik Kodlama ve Arduino'ya Giriş (Teorik)
 
 ## Ders Bilgileri
 - **Süre:** 2 saat 30 dakika
