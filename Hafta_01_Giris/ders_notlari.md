@@ -223,14 +223,8 @@ Kahverengi-Siyah-Kahverengi-Gri-
 ### 4.2 Temel Kod Yapısı
 
 ```cpp
-// Kütüphaneler (gerekirse)
-#include <Servo.h>
-
 // Sabitler
 const int LED_PIN = 13;
-
-// Global değişkenler
-int sayac = 0;
 
 void setup() {
   // Başlangıç ayarları - sadece 1 kez çalışır
@@ -291,20 +285,6 @@ void loop() {
 - **Wokwi:** Gelişmiş Arduino simülatörü
 - **Proteus:** Profesyonel PCB ve simülasyon
 - **Fritzing:** Devre şeması ve PCB tasarımı
-
----
-
-## 📝 Hafta 1 Kontrol Listesi
-
-- [ ] Robotik temel kavramları anlaşıldı
-- [ ] Mikrodenetleyici ve mikroişlemci farkı öğrenildi
-- [ ] Arduino donanım yapısı tanındı
-- [ ] Temel elektrik büyüklükleri kavrandı
-- [ ] Ohm kanunu uygulamaları yapıldı
-- [ ] Breadboard kullanımı öğrenildi
-- [ ] Arduino IDE kuruldu
-- [ ] Temel kod yapısı anlaşıldı
-- [ ] Tinkercad hesabı oluşturuldu
 
 ---
 
