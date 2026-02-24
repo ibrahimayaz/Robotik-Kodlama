@@ -158,18 +158,7 @@ Kısaca mikroişlemci; Güçlü beyin (ama organları dışarıda), mikrodenetle
 
 ### 3.4 Direnç Renk Kodları (4 Bantlı)
 
-| Renk | Değer | Çarpan |
-|------|-------|--------|
-| Siyah | 0 | ×1 |
-| Kahverengi | 1 | ×10 |
-| Kırmızı | 2 | ×100 |
-| Turuncu | 3 | ×1K |
-| Sarı | 4 | ×10K |
-| Yeşil | 5 | ×100K |
-| Mavi | 6 | ×1M |
-| Mor | 7 | - |
-| Gri | 8 | - |
-| Beyaz | 9 | - |
+![direnc_tablosu](https://i0.wp.com/diyot.net/wp-content/uploads/2014/10/007-1.gif?w=1200&ssl=1)
 
 **Örnek: Kırmızı-Kırmızı-Kahverengi-Altın = 220Ω ±5%**
 
