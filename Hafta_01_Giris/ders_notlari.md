@@ -163,7 +163,13 @@ Kısaca mikroişlemci; Güçlü beyin (ama organları dışarıda), mikrodenetle
 **Örnek: Kırmızı-Kırmızı-Kahverengi-Altın = 220Ω ±5%**
 
 ![direncc](https://i0.wp.com/diyot.net/wp-content/uploads/2014/10/image004-1.jpg?w=1200&ssl=1)
-Örnek: ![ornek_direnc](https://i0.wp.com/diyot.net/wp-content/uploads/2014/10/2-1.jpg?resize=220%2C54&ssl=1)
+
+# Örnek: ![ornek_direnc](https://i0.wp.com/diyot.net/wp-content/uploads/2014/10/2-1.jpg?resize=220%2C54&ssl=1)
+
+Kahverengi-Siyah-Kahverengi-Gri-
+=10x10^1+-%10
+=100Ohm-+%10
+
 ### 3.5 Breadboard Yapısı
 
 ![Bradboard](https://res.cloudinary.com/blues-wireless/image/fetch/f_auto,c_limit,w_3840,q_auto/https://dev.blues.io/_next/static/media/breadboard-illustrated.adb3be7b.jpg)
